@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Navarete"
-  avatar           : "navarete.jpg" #"profile.png"
+  avatar           : "navarete.png" #"profile.png"
   bio              : "I am a Post-Doctoral Fellow at the SOAR Telescope (Chile). I have a broad experience in Observational Astronomy (from UV to radio), mostly on Stellar Astrophysics, Star Formation and Instrumentation."
   location         : "La Serena, Chile"
   employer         : "NOIRLab"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
