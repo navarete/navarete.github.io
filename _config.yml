@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Felipe Navarete / Felipe Navarete's website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Felipe Navarete"
+description              : &description "Astronomer"
+url                      : https://navarete.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "navarete/navarete.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Felipe Navarete"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "I am a Post-Doctoral Fellow at the Institute of Astronomy, Geophysics and Atmospheric Sciences (IAG) of University of São Paulo (USP), Brazil. I did my PhD studies at IAG-USP (from 2013 to 2017) and, during this period, I did a Research Internships Abroad (BEPE), working as a Guest Student at the Max Planck Institute for Radio Astronomy (MPIfR), Bonn, Germany (from Feb/2015 to Feb/16). I also did my Master studies at IAG-USP and my Bachelor in Physics with especialization in Astronomy at the Institute of Physics of USP. I have a broad experience in Astronomy, mostly on Stellar Astrophysics, Star Formation and Instrumentation. I worked as a Research Assistant at Gemini South Observatory, for the FLAMINGOS-2 commissioning. FLAMINGOS-2 is a near-infrared imager and multi-object spectrometer. My first experiences in Science started in the Biochemistry area, working as an undergrad researcher/technician at the Energy Metabolism Laboratory at Institute of Chemistry of USP. My top-5-hobby list is: running, cycling, playing PC games, photography and beer/wine tasting. You can also follow my work on Research Gate or LinkedIn."
+  location         : "La Serena, Chile"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "http://scholar.google.com.br/citations?hl=pt-BR&user=s8l-538AAAAJ"
+  email            : "navarete@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "navarete"
   google_plus      :
   keybase          :
   instagram        :
